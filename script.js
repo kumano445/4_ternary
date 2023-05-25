@@ -24,9 +24,14 @@ var resultNum = 2 > 10 ? true : false;
 console.log(resultNum);
 
 // 5
+
+
 var resultNum = -99 ? true : false;
 console.log(resultNum);
 
 
-var resultNum = null ? true : false;
+// var resultNum = null ? true : false;
+// console.log(resultNum);
+
+var resultNum = "" ? true : false;
 console.log(resultNum);
