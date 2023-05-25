@@ -26,7 +26,7 @@ console.log(resultNum);
 // 5
 
 
-var resultNum = -99 ? true : false;
+var resultNum = 5 ? true : false;
 console.log(resultNum);
 
 
